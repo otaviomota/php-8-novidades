@@ -1,2 +1,2 @@
-# php-8-novidades
+# PHP 8 - Novidades
 Curso TreinaWeb
