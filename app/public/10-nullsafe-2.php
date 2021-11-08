@@ -33,6 +33,7 @@ $venda->carro = $uno;
 // se carro for diferente de null
 // se marca for diferente de null
 // escreve o nome
+// ?->
 echo $venda?->carro?->marca?->nome;
 
 
